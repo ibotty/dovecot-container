@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER Tobias Florek tob@butter.sh
+LABEL MAINTAINER="Tobias Florek tob@butter.sh"
 
 EXPOSE 24 143 993 110 995
 
